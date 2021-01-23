@@ -1,0 +1,10 @@
+
+django~=3.1.5
+
+channels~=3.0.3
+channels_redis
+
+psycopg2-binary
+djangorestframework~=3.12.2
+asgiref~=3.3.1
+djangorestframework-jwt~=1.11.0
